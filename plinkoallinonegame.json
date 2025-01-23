@@ -1,7 +1,7 @@
 {
     "APP_SETTINGS": {
         "app_accountLink": "s",
-        "app_privacyPolicyLink": "",
+        "app_privacyPolicyLink": "https://plinkoallinonegame.blogspot.com/p/privacy-policy.html",
         "app_updateAppDialogStatus": "1",
         "app_redirectOtherAppStatus": "1",
         "app_dialogBeforeAdShow": "1",
@@ -35,7 +35,7 @@
         "NativeAd_text_color": "#ffffff",
         "Show_bigNative": "on",
         "Is_inter_alternate": false,
-        "quizLink": "https://play580.atmequiz.com/",
+        "quizLink": "",
         "gameLink1": "https://games.atmegame.com/play580/games/air-hockey/?utm_source=play580GK91u&utm_medium=play580GK91u",
         "gameLink2": "https://games.atmegame.com/play580/games/air-warfare/?utm_source=play580GK91u&utm_medium=play580GK91u",
         "gameLink3": "https://games.atmegame.com/play580/games/angry-cat-shot/?utm_source=play580GK91u&utm_medium=play580GK91u",
